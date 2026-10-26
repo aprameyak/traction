@@ -15,3 +15,7 @@ npm install && npm start
 ```
 
 API on port 3009.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
